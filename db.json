@@ -1,4 +1,5 @@
-[
+{
+  "kent":[
   {
     "id": "ISPARTA",
     "icerik": "Akdeniz Bölgesi’nde bulunan ve Burdur, Afyon, Konya ve Antalya ile komşu olan güzel bir ilimizdir Isparta.Isparta Nüfusu 430 bin civarında olup  Kış turizmi, Doğa turları, tarihi ve kültürel değerleri ile rağbet gören bir destinasyonda yer almaktadır.Merhum Cumhurbaşkanlarımızdan ve son yüzyılda yetişmiş en ünlü siyasetçilerimizden olan Sn.Süleyman Demirel'inde memleketi olan ‘’Güller Diyarı’’ olarak adlandırılan Isparta, bu yönüyle oldukça tanınmaktadır. Isparta, son dönemlerde geliştirilen ulaşım ağları ve kültürel değerleri özveri ile koruma konusunda yaptığı çalışmalarla turizm alanında bir hayli yol katetmiş ve güzelliklerini daha fazla ortaya çıkartarak turist sayısını arttırmıştır.",
@@ -69,4 +70,5 @@
     "icerik": "1750 li yıllarda yapıldığı tahmin edilen Aya baniya Kilisesi Ispartanın en eski yerleşimlerinden Turan Mahallesinde yer almaktadır.",
     "foto": "https://www.kulturportali.gov.tr/repoKulturPortali/large/25022013/db141b0b-e72c-4c1c-a9b1-5e3ab188ab61.jpg?format=jpg&quality=50"
   }
-]
+ ]
+}
